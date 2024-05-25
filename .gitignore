@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+x64
+CompGrafLab2/x64
+CompGrafLab2/Debug
+.idea
+Debug
